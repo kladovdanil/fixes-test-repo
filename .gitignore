@@ -1,0 +1,17 @@
+# JetBrains IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
